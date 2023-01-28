@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  fourthchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-28T13:59:59.584318799Z"
+    description: A Helm chart for Kubernetes
+    digest: ba572eac64b61cc3e3b25d1a26d1926056af2d7ad6dbe02330cbd42532558189
+    name: fourthchart
+    type: application
+    urls:
+    - fourthchart-0.1.0.tgz
+    version: 0.1.0
+  thirdchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-28T13:59:59.587321462Z"
+    description: A Helm chart for Kubernetes
+    digest: 625d1c0c6944fb270c43b6a2d4a721beb91ff218d330b4d996923a60c9531815
+    name: thirdchart
+    type: application
+    urls:
+    - thirdchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-28T13:59:59.583265829Z"
